@@ -1,4 +1,4 @@
-### Hi there, I'm Batu - aka [Arduino Türk Batu][website] 👋
+### Hi there, I'm Batu - aka [Arduino Türk Batu][youtube] 👋
 
 ## I'm coder, student, and teacher!
 - 👨‍💻 I'm writing codes.
