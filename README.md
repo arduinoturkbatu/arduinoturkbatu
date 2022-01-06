@@ -21,6 +21,12 @@
 <br />
 <br />
 
+---
+
+### 📺 Latest YouTube Videos:
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 [youtube]: https://www.youtube.com/channel/UCwGhWHqg4HuKZ0C9j4vjGxg/featured
 [instagram]: https://www.instagram.com/arduinoturkbatu/
 [htmlplaylist]: https://www.youtube.com/playlist?list=PLVdkFG00DhbM5yU6ZWNGUF4MmHZcxqGGa
