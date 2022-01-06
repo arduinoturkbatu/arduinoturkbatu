@@ -26,6 +26,7 @@
 ### 📺 Latest YouTube Videos:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+If it does not load, please contact us.
 
 [youtube]: https://www.youtube.com/channel/UCwGhWHqg4HuKZ0C9j4vjGxg/featured
 [instagram]: https://www.instagram.com/arduinoturkbatu/
