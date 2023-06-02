@@ -23,14 +23,19 @@
 
 ---
 
-### 📺 Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-If it does not load, please contact us.
+### 💻 My Projects:
+- [Browser Alp][browseralp]
+- [Cafee Omi][cafeeomi]
 
-[youtube]: https://www.youtube.com/channel/UCwGhWHqg4HuKZ0C9j4vjGxg/featured
+[youtube]: https://arduinoturkbatu.github.io
 [instagram]: https://www.instagram.com/arduinoturkbatu/
 [htmlplaylist]: https://www.youtube.com/playlist?list=PLVdkFG00DhbM5yU6ZWNGUF4MmHZcxqGGa
 [arduinoplaylist]: https://www.youtube.com/playlist?list=PLVdkFG00DhbNsIGd-kxYxLZHAEGR2pnjG
 [scratchplaylist]: https://www.youtube.com/playlist?list=PLVdkFG00DhbPsOMm5BoDXW9njO2Jz18yq
 [mblockplaylist]: https://www.youtube.com/playlist?list=PLVdkFG00DhbMGiGPOKnkPKLXAj8bXkTmf
+[browseralp]: https://arduinoturkbatu.github.io/browseralp-website
+[cafeeomi]: https://arduinoturkbatu.github.io/cafeeomiMenu
+
+---
+
+01101000 01101001 00100000 01110100 01101000 01100101 01110010 01100101 00100001
