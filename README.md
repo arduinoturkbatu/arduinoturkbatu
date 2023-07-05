@@ -6,9 +6,10 @@
 - 👨‍🏫 I'm teaching Arduino & HTML & Scratch (etc.) on my YouTube channel.
 - ⚡ Fun Fact: There is no fun fact 😀
 
-### Contact  with me:
-[<img align="left" alt="ArduinoT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ArduinoT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Websites:
+[Personal Website](https://batuakyar.vercel.app) | batuakyar.vercel.app
+
+[Arduino Türk Batu](https://arduinoturkbatu.github.io) | arduinoturkbatu.github.io
 
 <br />
 
