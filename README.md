@@ -3,7 +3,7 @@
 ## I'm coder, student, and teacher!
 - 👨‍💻 I'm writing codes.
 - 👨‍🎓 I'm student on my school.
-- 👨‍🏫 I'm teaching Arduino & HTML & Scratch (etc.) on my YouTube channel.
+- 👨‍🏫 I'm teaching Arduino & HTML & Scratch etc. on my YouTube channel.
 - ⚡ Fun Fact: There is no fun fact 😀
 
 ### Websites:
