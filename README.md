@@ -6,12 +6,10 @@
 - 👨‍🏫 I'm teaching Arduino & HTML & Scratch etc. on my YouTube channel.
 - ⚡ Fun Fact: There is no fun fact 😀
 
-### Websites:
-[Personal Website](https://batuakyar.vercel.app) | batuakyar.vercel.app
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-[Arduino Türk Batu](https://arduinoturkbatu.github.io) | arduinoturkbatu.github.io
-
-<br />
+**Website:** [Personal Website](https://batuakyar.vercel.app) | batuakyar.vercel.app
 
 ### Languages and Tools:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlplaylist]
@@ -36,10 +34,6 @@
 [mblockplaylist]: https://www.youtube.com/playlist?list=PLVdkFG00DhbMGiGPOKnkPKLXAj8bXkTmf
 [browseralp]: https://arduinoturkbatu.github.io/browseralp-website
 [cafeeomi]: https://arduinoturkbatu.github.io/cafeeomiMenu
-
----
-
-### 📺 Latest YouTube Videos:
 
 ---
 
