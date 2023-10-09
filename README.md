@@ -6,10 +6,7 @@
 - 👨‍🏫 I'm teaching Arduino & HTML & Scratch etc. on my YouTube channel.
 - ⚡ Fun Fact: There is no fun fact 😀
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<div style="font-size:1.5rem"><b>Website:</b> <a href="https://batuakyar.vercel.app">batuakyar.vercel.app</a></div>
+<div style="font-size:24px"><b>Website:</b> <a href="https://batuakyar.vercel.app">batuakyar.vercel.app</a></div>
 
 ### Languages and Tools:
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlplaylist]
