@@ -1,21 +1,11 @@
-### Hi there, I'm Batu - aka [Arduino Türk Batu][youtube] 👋
+### Hi there, I'm Batu Akyar @ [batuakyar.vercel.app](https://batuakyar.vercel.app)👋
 
-## I'm coder, student, and teacher!
-- 👨‍💻 I'm writing codes.
-- 👨‍🎓 I'm student on my school.
-- 👨‍🏫 I'm teaching Arduino & HTML & Scratch etc. on my YouTube channel.
-- ⚡ Fun Fact: There is no fun fact 😀
+## Languages and Tools
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 
-<div style="font-size:24px"><b>Website:</b> <a href="https://batuakyar.vercel.app">batuakyar.vercel.app</a></div>
-
-### Languages and Tools:
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://bilisimkulubu.bogaziciasokullari.com/wp-content/uploads/2020/06/1_eYLvFjmi77iM_cjJTvRymg.png" />][arduinoplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://robokodlama.com/wp-content/uploads/2018/12/scratchhh.png" />][scratchplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://pbs.twimg.com/media/CDFf5EwVIAAzeJh?format=png&name=large" />][mblockplaylist]
-
-<br />
-<br />
+<div style="font-size:24px !important;"><b>Website:</b> <a href="https://batuakyar.vercel.app">batuakyar.vercel.app</a></div>
 
 ---
 
