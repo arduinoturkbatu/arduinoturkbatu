@@ -6,6 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
 
 <div style="font-size:24px !important;"><b>Website:</b> <a href="https://batuakyar.vercel.app">batuakyar.vercel.app</a></div>
+<div style="font-size:24px !important;"><b>Bento Quick Links:</b> <a href="https://bento.me/batuakyar">Open on Bento</a></div>
 
 ---
 
@@ -13,12 +14,6 @@
 - [Browser Alp][browseralp]
 - [Cafee Omi][cafeeomi]
 
-[youtube]: https://arduinoturkbatu.github.io
-[instagram]: https://www.instagram.com/arduinoturkbatu/
-[htmlplaylist]: https://www.youtube.com/playlist?list=PLVdkFG00DhbM5yU6ZWNGUF4MmHZcxqGGa
-[arduinoplaylist]: https://www.youtube.com/playlist?list=PLVdkFG00DhbNsIGd-kxYxLZHAEGR2pnjG
-[scratchplaylist]: https://www.youtube.com/playlist?list=PLVdkFG00DhbPsOMm5BoDXW9njO2Jz18yq
-[mblockplaylist]: https://www.youtube.com/playlist?list=PLVdkFG00DhbMGiGPOKnkPKLXAj8bXkTmf
 [browseralp]: https://arduinoturkbatu.github.io/browseralp-website
 [cafeeomi]: https://arduinoturkbatu.github.io/cafeeomiMenu
 
