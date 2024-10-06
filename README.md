@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Batu
+Hi 👋, I'm Batu
 ============================================================================================================================
 
-Web & Mobile Developer and UI & Logo Designer
+* Web & Flutter Developer
+* UI & Logo Designer
 ---------------------------------------------
-
-Hello everyone! I'm
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [batuakyar.vercel.app](http://batuakyar.vercel.app)
